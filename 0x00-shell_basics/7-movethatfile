@@ -1,3 +1,4 @@
 #!/bin/bash
-mv /tmp/_ /tmp/my_first_directory
+mv /tmp/ to /tmp/my_first_directory
+
 
